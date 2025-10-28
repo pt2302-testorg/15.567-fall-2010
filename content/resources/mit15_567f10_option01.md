@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource provides information related to detailed description for
   option 1. '
 file: /courses/15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010/da68696a1fc7e30bee25ee5b8770018f_MIT15_567F10_option01.pdf
+file_size: 370342
 file_type: application/pdf
 learning_resource_types:
 - Projects
